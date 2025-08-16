@@ -1,0 +1,5 @@
+str1=input("enter word:")
+str2=input("substring:")
+str3=input("replace with:")
+strz=str1.replace(str2,str3)
+print(strz)
